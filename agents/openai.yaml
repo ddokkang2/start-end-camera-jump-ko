@@ -1,0 +1,4 @@
+interface:
+  display_name: "스타트·엔드 카메라 점프"
+  short_description: "성공 프롬프트의 스냅·정지 구조를 새 스타트·엔드 이미지에 적용"
+  default_prompt: "$start-end-camera-jump-ko 첨부한 스타트·엔드 이미지를 확인하고 내가 지정한 움직임에 맞는 영상 프롬프트를 작성해줘."
